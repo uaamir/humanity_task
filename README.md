@@ -6,4 +6,4 @@
 Humanity Task
 Here you will find 
 1. The Google collab notebook for comuting the Pirate Metrics
-2. A Dash board created with Python Dash and a Video explaining it
+2. Video explaining it
